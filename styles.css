@@ -3,6 +3,7 @@
 body {
     margin: 0;
     font-family: 'Josefin Sans', sans-serif;
+    background-image: url(images/bg-pattern-desktop.svg);
 }
 
 h1 {
